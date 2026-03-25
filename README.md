@@ -99,7 +99,7 @@ El archivo Excel incluye 7 hojas de análisis con gráficos:
 
 **Camilo Arias Mayorga**  
 Google Data Analytics Professional Certificate — Coursera  
-[LinkedIn](#) | [GitHub](https://github.com/camiloariasmayorga-beep)
+[LinkedIn](www.linkedin.com/in/camilo-arias-688724201) | [GitHub](https://github.com/camiloariasmayorga-beep)
 d…]()
 
 Análisis de accidentes de tránsito en Bucaramanga (2012–2023) 
